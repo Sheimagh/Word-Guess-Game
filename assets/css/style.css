@@ -1,0 +1,16 @@
+
+body {
+    background-image: url(../images/world.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    color: white;
+    display: flex;
+}
+.container {
+    margin: auto;
+    text-align: center;
+}
+#currentWord {
+    letter-spacing: 10px;
+}
