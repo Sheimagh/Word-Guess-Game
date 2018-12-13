@@ -1,7 +1,34 @@
 # Word-Guess-Game
+
+My Word Guess Game is a simple version of a hangman style game. I chose World Cities! The purpose of this assignment was to create a word guess game using Javascript.
+
+Link to game: 
+
 https://sheimagh.github.io/word-guess-game/
 
 https://github.com/Sheimagh/word-guess-game
+
+How to Play:
+
+Press any Alpha key (A-Z, a-z) to start game. Non alpha keys are ignored. The theme of the game is 'World Cities'. The game will randomly select a world city from its internal list. It will then display a blank word using underscores to represent the letters in the word. It is possible to have a multi-word city such as Los Angeles.
+
+If a correct letter is guessed, the game will reveal the letter in its correct location. If an incorrect letter is selected, then it will add the letter to a list on incorrectly guessed letters and decrement the remaining guesses count.
+
+If the user guesses the correct city name before remaining guesses equal zero, then the game increments the number of wins and restarts the game by selecting a new random city name and reseting the game parameters.
+
+If the user does not guess the correct city name within the allocated number of guesses, then the game resets.
+
+Assets used:
+
+Background image from https://www.shutterstock.com 
+
+Sounds: https://notificationsounds.com Public License
+
+Side notes:
+
+I spent some time trying to get it to work when either the user guessed the correct city or ran out of guesses. I was able to get something partially working. I also didn't spend much time enhancing the website with more CSS. My thought was to enhance its functionality using more Javascript functions (i.e.'You Win' or 'You Lose'). As I gain more experience, I would like to revisit this exercise and improve both the JS functions and include Jquery with the styling (like incorporating the letter buttons that were used for example like the "Fridge Game" and other fancy elements.)
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 # JavaScript Assignment
 
