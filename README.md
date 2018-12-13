@@ -18,7 +18,7 @@ If the user does not guess the correct city name within the allocated number of 
 
 Assets used:
 
-Background image from https://www.shutterstock.com 
+Background image: https://www.shutterstock.com 
 
 Sounds: https://notificationsounds.com Public License
 
