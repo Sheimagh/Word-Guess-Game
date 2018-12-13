@@ -6,8 +6,6 @@ Link to game:
 
 https://sheimagh.github.io/word-guess-game/
 
-https://github.com/Sheimagh/word-guess-game
-
 How to Play:
 
 Press any Alpha key (A-Z, a-z) to start game. Non alpha keys are ignored. The theme of the game is 'World Cities'. The game will randomly select a world city from its internal list. It will then display a blank word using underscores to represent the letters in the word. It is possible to have a multi-word city such as Los Angeles.
