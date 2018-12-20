@@ -70,7 +70,8 @@ $(document).ready(function() {
         updateDisplay()
 
     }
-    // Check in keypressed is between A-Z or a-z
+    // Check in keypressed is between A-Z or a-z, used this site for the below expression.
+    //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
     function isAlpha (ch){
         return /^[A-Z]$/i.test(ch);
     }
