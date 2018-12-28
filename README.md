@@ -22,6 +22,10 @@ Background image: https://www.shutterstock.com
 
 Sounds: https://notificationsounds.com Public License
 
+
+![screenshot](https://user-images.githubusercontent.com/44955946/50499151-eb97f300-0a0c-11e9-94e8-d51b813a5be3.PNG)
+
+
 Side notes:
 
 I spent some time trying to get it to work when either the user guessed the correct city or ran out of guesses. I was able to get something partially working. I also didn't spend much time enhancing the website with more CSS. My thought was to enhance its functionality using more Javascript functions (i.e.'You Win' or 'You Lose'). As I gain more experience, I would like to revisit this exercise and improve both the JS functions and include Jquery with the styling (like incorporating the letter buttons that were used for example like the "Fridge Game" and other fancy elements.)
